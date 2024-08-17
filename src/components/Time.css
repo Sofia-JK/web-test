@@ -1,0 +1,18 @@
+.time-style{
+    display: flex;
+    flex-direction: row;
+    margin: 8px 12px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    gap: 2px;
+}
+
+.time-style>p{
+    font-family: Lato;
+    font-weight: normal;
+    color: #000;
+    font-size: 12px;
+    margin: 0px;
+}
+
